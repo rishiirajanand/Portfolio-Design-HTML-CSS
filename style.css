@@ -266,6 +266,7 @@ footer p{
     .about_box{
         width: 94%;
         left: 5%;
+        top: 120px;
     }
     .about_box p{
         font-size: 18px;
